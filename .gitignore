@@ -1,0 +1,8 @@
+.venv/
+.vscode/
+
+pinkod/db.sqlite3
+pinkod/main/__pycache__/
+pinkod/news/__pycache__/
+pinkod/pinkod/__pycache__/
+pinkod/services/__pycache__/
